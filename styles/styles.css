@@ -32,3 +32,10 @@ h1{
     background: rgba(255, 255, 255, 0.548);
     backdrop-filter: blur(10px);
 }
+
+.card img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 200px;
+}
